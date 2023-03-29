@@ -1,8 +1,6 @@
-# Gra w Snake'a
+#Snake game
 
-Zasady gry:
-Użytkownik ma za zadanie zjeść 50 jabłek. Jeżeli nie zdąży w 4 minuty, to przegrywa. Jeżeli zderzy się z samym sobą, to 
-również przegrywa. Zjedzenie jabłka spowoduje wydłużenie długśoci węża o 1, natomiast zjedzenie muchomora zmniejszenie długości
-życia o jeden. Także stłuczka z murem spowoduje, że użytkownik przegra. Na początku użytkownik będzie mieć 5 żyć. 
+Game rules:
+The user's task is to eat 50 apples. If they do not succeed in 4 minutes, they lose. If they collide with themselves, they also lose. Eating an apple will increase the length of the snake by 1, while eating a mushroom will decrease the user's life by one. Also, crashing into a wall will cause the user to lose. At the beginning, the user will have 5 lives.
 
-W projekcie będę używać biblioteki Windows Forms. Program będzie napisany w języku C#.
+The project will use the Windows Forms library. The program will be written in C#.
